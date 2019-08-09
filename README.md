@@ -1,2 +1,3 @@
 # zabbix-config
-Zabbix configurations 
+
+Zabbix configuration files
